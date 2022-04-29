@@ -14,7 +14,7 @@ pipeline {
             }
         }
         stage('Deploy') {
-            when { tag "qa-*" }
+            when { tag 'qa-*' }
             steps {
                 echo 'Deploying only because this commit is tagged...'
                 
