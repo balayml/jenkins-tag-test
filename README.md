@@ -17,3 +17,4 @@ qa-v16
 qa-v18
 qa-v19
 qa-v20
+release-v1
