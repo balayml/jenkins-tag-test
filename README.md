@@ -19,3 +19,4 @@ qa-v19
 qa-v20
 release-v1
 release-v2
+release-v3
